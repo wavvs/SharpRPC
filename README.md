@@ -5,7 +5,7 @@ Windows RPC experiments using C#.
 ## Projects
 
 * [OxidResolver](https://github.com/wavvs/SharpRPC/tree/main/OxidResolver)
-* [Spooler](https://github.com/wavvs/Spooler/tree/main/Spooler)
+* [Spooler](https://github.com/wavvs/SharpRPC/tree/main/Spooler)
 
 ## References
 
