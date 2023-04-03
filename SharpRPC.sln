@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxidResolver", "OxidResolver\OxidResolver.csproj", "{E92FA1A7-4E52-4C8B-9EAD-B9B84AC898F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spooler", "Spooler\Spooler.csproj", "{56A7384C-5EA9-471C-8635-0F70126A9322}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E92FA1A7-4E52-4C8B-9EAD-B9B84AC898F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E92FA1A7-4E52-4C8B-9EAD-B9B84AC898F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E92FA1A7-4E52-4C8B-9EAD-B9B84AC898F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A7384C-5EA9-471C-8635-0F70126A9322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A7384C-5EA9-471C-8635-0F70126A9322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A7384C-5EA9-471C-8635-0F70126A9322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A7384C-5EA9-471C-8635-0F70126A9322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
