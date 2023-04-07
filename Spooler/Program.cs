@@ -252,7 +252,7 @@ namespace Spooler
             { 
                 var target = @"\\" + opts.Target;
                 var capture = @"\\" + opts.Capture;
-                return Coerce(printer, devContainer, capture, target);
+                return Coerce(printer, devContainer, target, capture);
             }
             else
             {
